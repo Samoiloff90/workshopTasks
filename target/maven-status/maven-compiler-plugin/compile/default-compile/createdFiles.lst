@@ -1,0 +1,12 @@
+pages\base\BasePage.class
+common\Config.class
+constants\Constant$Letters.class
+constants\Constant$TimeoutVariables.class
+constants\Constant$TestData.class
+pages\yandex_search\YandexSearchPage.class
+constants\Constant$Urls.class
+constants\Constant.class
+constants\Constant$UrlsQuery.class
+pages\yandex_login_mail\YandexLoginMailPage.class
+common\CommonActions.class
+pages\yandex_mail\YandexMailPage.class

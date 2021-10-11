@@ -1,0 +1,1 @@
+{"uuid":"c7d7ceda-11b2-4175-909e-c821f7e1c26e","name":"CheckingAndSendingMessagesTest","children":["af22d124-244b-43a6-9162-525382c11353"],"befores":[],"afters":[{"name":"close","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1633881416334,"stop":1633881416334}],"links":[],"start":1633881404328,"stop":1633881416336}

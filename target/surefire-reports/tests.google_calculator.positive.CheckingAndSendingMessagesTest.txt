@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tests.google_calculator.positive.CheckingAndSendingMessagesTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.009 s - in tests.google_calculator.positive.CheckingAndSendingMessagesTest

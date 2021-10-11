@@ -1,0 +1,1 @@
+{"uuid":"9721ae5c-372c-42c6-8512-e493d96f5c20","name":"checkingMail()","children":["af22d124-244b-43a6-9162-525382c11353"],"befores":[],"afters":[{"name":"clearCookiesAndLocalStorage","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1633881415918,"stop":1633881416244}],"links":[],"start":1633881408512,"stop":1633881416326}
